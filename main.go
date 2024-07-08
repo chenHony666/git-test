@@ -9,4 +9,5 @@ func main() {
 	fmt.Println("hello dev!!")
 	fmt.Println("hello master!!")
 	fmt.Println("hello dev!!")
+	fmt.Println("push test!")
 }
